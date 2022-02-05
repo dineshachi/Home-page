@@ -1,0 +1,119 @@
+*{ margin:0;
+padding:0;
+}
+.banner
+{
+	width:100%;
+	height:100vh;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../vp.jpg');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+.house
+{ position:absolute;
+	bottom:85%;
+	left:70%;
+	text-transform:uppercase;
+	
+	
+
+}
+.house a.id
+{
+background-color:white;
+color:black;
+padding:7px;
+border-radius:4px;
+
+}
+.house a
+{
+	padding:7px;
+	color:white;
+	margin:5px;
+	border-radius:4px;
+	text-decoration:none;
+}
+.main
+{ position:absolute;
+bottom:50%;
+left:24%;
+}
+.main h1
+{ font-size:90px;
+color:white;
+}
+.hou
+{ font-size:18px;
+background:transparent;
+margin:10px;
+color:white; position:absolute;
+top:300px;
+left:33%;
+padding:10PX 40px;
+border-radius:20px;
+border: 2px solid #009688;
+overflow:hidden;
+background-color:#009688;
+}
+.des
+{
+font-size:18px;
+background:transparent;
+margin:10px;
+color:white; position:absolute;
+top:300px;
+left:51%;
+padding:10PX 40px;
+border-radius:20px;
+border: 2px solid #009688;
+background-color:#009688;
+
+overflow:hidden;
+}
+
+
+	.hou:hover{width:100%;
+	
+}
+.hou:hover{ border:none;
+}
+
+.des:hover{
+	width:100%;
+	
+}
+.des:hover{ border:none;
+}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
